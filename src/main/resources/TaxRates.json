@@ -1,0 +1,52 @@
+[
+  {
+    "startTime": "06:00:00",
+    "endTime": "06:29:00",
+    "amount": 8
+  },
+  {
+    "startTime": "06:30:00",
+    "endTime": "06:59:00",
+    "amount": 13
+  },
+  {
+    "startTime": "07:00:00",
+    "endTime": "07:59:00",
+    "amount": 18
+  },
+  {
+    "startTime": "08:00:00",
+    "endTime": "08:29:00",
+    "amount": 13
+  },
+  {
+    "startTime": "08:30:00",
+    "endTime": "14:59:00",
+    "amount": 8
+  },
+  {
+    "startTime": "15:00:00",
+    "endTime": "15:29:00",
+    "amount": 13
+  },
+  {
+    "startTime": "15:30:00",
+    "endTime": "16:59:00",
+    "amount": 18
+  },
+  {
+    "startTime": "17:00:00",
+    "endTime": "17:59:00",
+    "amount": 13
+  },
+  {
+    "startTime": "18:00:00",
+    "endTime": "18:29:00",
+    "amount": 8
+  },
+  {
+    "startTime": "18:30:00",
+    "endTime": "05:59:00",
+    "amount": 0
+  }
+]
